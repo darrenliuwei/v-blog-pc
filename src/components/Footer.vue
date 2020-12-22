@@ -1,5 +1,5 @@
 <template>
-  <el-footer>© 2020 刘伟博客</el-footer>
+  <el-footer>© 2020 刘伟</el-footer>
 </template>
 
 <script>

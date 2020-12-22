@@ -3,7 +3,7 @@
     <el-header>
       <div class="w title">
         <div class="home">
-          <router-link to="/">刘伟博客</router-link>
+          <router-link to="/">刘伟</router-link>
           <span>study hard, play hard.</span>
         </div>
         <div class="items">
